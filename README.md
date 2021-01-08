@@ -1,6 +1,6 @@
 # Employee Directory
 
-An app to help organize the employees within a company. Either sort through the users in ascending/descending order by clicking the arrows on any column, or filter through the users by using the search bar.
+An app to help organize the employees within a company. Either sort through the users in ascending/descending order by clicking the arrows on any column, or filter through the users by using the search bar. You could add your own employees, however as of now the users are generated through the random user api.
 
 ## Deployed App on Heroku
 
