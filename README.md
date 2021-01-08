@@ -4,8 +4,6 @@ An app to help organize the employees within a company. Either sort through the 
 
 ## Deployed App on Heroku
 
-https://nameless-beach-49334.herokuapp.com/
-
 <img src="./img/Screen Shot 2021-01-08 at 1.35.44 PM.png" alt="Home page">
 
 ## Table of Contents:
